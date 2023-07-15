@@ -1,1 +1,1 @@
-# easy-JS
+# Easy-JS
