@@ -20,6 +20,7 @@ function calcTotalPrice(stones, stonesName) {
         }
     }
 }
+
 console.log(calcTotalPrice(stones, "Изумруд"));
 console.log(calcTotalPrice(stones, "Бриллиант"));
 console.log(calcTotalPrice(stones, "Сапфир"));
